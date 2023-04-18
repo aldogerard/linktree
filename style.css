@@ -33,7 +33,7 @@ body {
 }
 
 .container {
-    width: 410px;
+    width: 430px;
     backdrop-filter: blur(2px);
     border: 2px solid rgb(126, 245, 183);
     box-sizing: border-box;
