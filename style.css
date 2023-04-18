@@ -21,7 +21,7 @@
 body {
     background-size: cover;
     background-color: rgb(41, 54, 63);
-    background-image: url(/bgdaun.jpg);
+    background-image: url(bgdaun.jpg);
     background-repeat: no-repeat;
     background-position: cover;
     font-family: "Tex Gyr Reguler";
