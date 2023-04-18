@@ -36,8 +36,6 @@ body {
     width: 400px;
     backdrop-filter: blur(2px);
     border: 2px solid rgb(126, 245, 183);
-    /* background-color: rgb(28, 41, 50); */
-    /* background-image: linear-gradient(to bottom, rgb(41, 54, 63), rgb(28, 41, 50), rgb(16, 29, 38), rgb(13, 27, 37)); */
     box-sizing: border-box;
     border-radius: 50px;
     -webkit-border-radius: 50px;
