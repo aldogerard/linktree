@@ -37,11 +37,11 @@ body {
     backdrop-filter: blur(2px);
     border: 2px solid rgb(126, 245, 183);
     box-sizing: border-box;
-    border-radius: 50px;
-    -webkit-border-radius: 50px;
-    -moz-border-radius: 50px;
-    -ms-border-radius: 50px;
-    -o-border-radius: 50px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
     box-shadow: 15px 15px 5px rgb(0, 0, 0, .6);
     overflow: hidden;
 }
